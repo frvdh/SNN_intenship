@@ -2,7 +2,7 @@
 
 Results of Spiking neural networks internship done at IMEC Leuven during Summer of 2021 with the neuromorphic radar team
 ---
-My internship at [IMEC](https://www.imec-int.com/en) started in the beginning of July 2021 with learning the main theoretical concepts and practices used in the current deep learning and SNN field. The programming language and main library used for this were Python and Pytorch. Using some sample code that trains and tests a vanilla SNN, following animation was generated:
+My internship at [IMEC](https://www.imec-int.com/en) started in the beginning of July 2021 with learning the main theoretical concepts and practices used in the current deep learning and SNN field. The programming language and framework used for this were Python and Pytorch. Using some sample code that trains and tests a vanilla SNN, following animation was generated:
 
 https://user-images.githubusercontent.com/47596729/127158387-fa131bec-445b-4f30-bbcf-011ec641bcae.mp4
 
